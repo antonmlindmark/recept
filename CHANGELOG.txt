@@ -1,0 +1,15 @@
+Changelog
+Version 1.1.0, 2026/03/18:
+Added: Morötter
+
+Version 1.1.1 2026/03/18:
+Added: Buljong
+
+Version 1.2.0
+Added: Majs
+
+Version 1.2.1:
+Added: Lagerblad, Oregano
+
+Version 2.0.0:
+Added: Selleri
