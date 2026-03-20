@@ -1,0 +1,8 @@
+Ändring:
+Jag valde att reverta tillbaka till v1.2.0 då selleri smakar för mycket lakrits och påverkar slutprodukten.
+
+Metod:
+Jag valde att använda mig av git revert istället för git reset då jag arbetar på min main, jag har pushat v2.0.0 till min remote repo samt att jag vill bara återvända till en version som smakar bra och passar mig. 
+
+Historiken:
+Det kommer synas att jag har arbetat med v2.0.0 men en ny commit kommer synas att jag först återvänt till en tidigare version. Det kommer inte tas bort att jag har släppt en v2.0.0.
