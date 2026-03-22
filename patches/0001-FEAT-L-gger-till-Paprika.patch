@@ -1,0 +1,42 @@
+From 6674432baf8c76559a415208b1117597a71f5016 Mon Sep 17 00:00:00 2001
+From: Anton Lindmark <a.lindmark94@gmail.com>
+Date: Sun, 22 Mar 2026 17:11:59 +0100
+Subject: [PATCH] =?UTF-8?q?FEAT:=20L=C3=A4gger=20till=20Paprika?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ recept.txt | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+diff --git a/recept.txt b/recept.txt
+index 4e5d335..4b4416b 100644
+--- a/recept.txt
++++ b/recept.txt
+@@ -6,6 +6,7 @@ Ingredienser:
+ 2st Morötter
+ 1 Gul Lök
+ 1 burk Majs
++1 paprika, röd orange eller gul (Skippa grön)
+ 2 förp. Krossade Tomater
+ 1 Köttbuljongstärning
+ 2-3 Lagerblad
+@@ -14,11 +15,12 @@ Salt och Peppar
+ 
+ Koka vatten samt addera rikligt med salt. Koka pastan enl anvisning på förpackning
+ 
+-Skär upp en gul lök i små bitar
++Skär upp en gul lök i små bitar.
++Skär upp en paprika i tärningar.
+ Riv 2 morötter grovt.
+ Ställ en gjutjärnsgryta på plattan och sätt igång värmen.
+ Stek 500g köttfärs tills den är genomstekt.
+-Addera den hackade löken samt de rivna morötterna och mjukna upp den.
++Addera den hackade löken, de rivna morötterna samt den tärnade paparikan för att mjukna upp den.
+ Addera en burk med majs till såsen.
+ Addera 2 förp. krossade tomater och rör ihop.
+ Addera en köttbuljongtärning samt lagerblad och oregano till såsen.
+-- 
+2.43.0
+
