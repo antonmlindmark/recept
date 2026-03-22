@@ -6,3 +6,7 @@ Jag valde att använda mig av git revert istället för git reset då jag arbeta
 
 Historiken:
 Det kommer synas att jag har arbetat med v2.0.0 men en ny commit kommer synas att jag först återvänt till en tidigare version. Det kommer inte tas bort att jag har släppt en v2.0.0.
+
+GIT Apply ska användas mer för t.ex. testa ett script, en liten fix. Nått som man vill bara se vad själva ändringen gör. Du får inte skapa något commit meddelande när du använder dig av git apply vilket är mer lämpligt för mindre ändringar eller enklare tester.
+
+GIT am används när man vill göra en större ändring som t.ex. en stor patch. git format-patch skapar som är gjorda för git am med diff samt metadatainfo som t.ex. commit-meddelande. Det är därför också då jag har använt mig av git am istället för git apply då jag vill att min patch ska synas i min lokal samt remote repository, så ifall man i detta fall verkligen inte gillar paprika så skulle nån kunna reverta min paprika-patch.
